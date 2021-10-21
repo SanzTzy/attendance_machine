@@ -64,8 +64,6 @@ class Mahasiswa:
         self.Nama = None
         self.Jurusan = None
 
-
-
 class Node:
     def __init__(self, data):
         self.data = data
